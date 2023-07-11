@@ -4,19 +4,17 @@ SDK này có nhiều chức năng cơ bản để xử lý hình ảnh cũng nh�
 
 Bởi vì kho có giới hạn về kích thước tập tin, vì vậy kho này không có tập tin thư viện tĩnh và các tập tin không đầy đủ và phù hợp, vui lòng di chuyển các liên kết dưới đây để tải về gói nén phiên bản đầy đủ; Tất cả các bản cập nhật cho SDK này được phát hành thông qua các liên kết sau, vui lòng theo dõi chặt chẽ những thay đổi trong các liên kết sau.
 
-https://pan.baidu.com/s/1Y3eDayRzjwJSGEvn-6UBMg?pwd=1234 Mã trích xuất: 1234
+https://pan.baidu.com/s/1F0tBFGroaztEflMBXPFVvQ?pwd=1234 提取码: 1234
 
-https://share.weiyun.com/mPF4n77y
+https://share.weiyun.com/1dsaoQHV
 
-https://caiyun.139.com/m/i?0H5CJY1i2Coeh Mã trích xuất:BkYO
+https://caiyun.139.com/m/i?0H5CIuEJ2DoNn 提取码:3xOK
 
-https://www.mediafire.com/file/8im1ekrrrknt00z/ImageVision-SDK_8%2528BravePerseverance%2529.zip/file
+https://www.mediafire.com/file/0309otm39z76nce/ImageVision-SDK_10%2528WindTide%2529.zip/file
 
-https://jmj.cc/s/dw0uib
+https://jmj.cc/s/a3xglk
 
-https://cloud.189.cn/web/share?code=6NriiiiuQR7r（Mã trích xuất：bot7）
-
-https://url95.ctfile.com/f/44915895-846056217-694820?p=9057 (Mã trích xuất: 9057)
+https://cloud.189.cn/web/share?code=3M3qEjzuEVVr（访问码：3qwu）
 
 Liên hệ nhóm QQ sau:
 
