@@ -1,4 +1,4 @@
-ImageVision-SDK 8 chính thức được phát hành
+ImageVision-SDK 10 chính thức được phát hành
 
 SDK này có nhiều chức năng cơ bản để xử lý hình ảnh cũng như các toán tử nâng cao, bao gồm nhưng không giới hạn ở khả năng đọc và lưu hình ảnh mạnh mẽ, codec 2D, tạo captcha, cắt xén hình ảnh, mã hóa hình ảnh, nén hình ảnh, phát hiện cạnh, xử lý hình thái, khớp mẫu, phát hiện và khớp tính năng, ẩn hình ảnh, bộ lọc hiệu ứng hình ảnh, đánh dấu và chỉnh sửa hình ảnh, tìm kiếm hình dạng, vẽ văn bản và đồ họa, phát hiện góc, Chuyển đổi Hoff, đánh giá chất lượng hình ảnh, nhận dạng ký tự, phát hiện vòng tròn và đường thẳng, khử nhiễu hình ảnh, tăng cường hình ảnh, phục hồi hình ảnh, phân vùng hình ảnh, chuyển đổi không gian màu, chuyển đổi định dạng hình ảnh, SDK này ổn định và đáng tin cậy, hiệu suất mạnh mẽ, thời gian dùng thử dài, tỷ lệ giá tình dục cao, là sự lựa chọn tốt nhất để hỗ trợ bạn phát triển các ứng dụng xử lý hình ảnh nhanh chóng.
 
